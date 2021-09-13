@@ -1,4 +1,4 @@
-In this repository it is possible to finde the raw output of the paper submitted to "Open Research Europe" (ORE) by "Irene Buselli, Luca Oneto, Carlo Dambra, Christian Verdonk Gallego, Miguel García Martínez, Anthony Smoker, Nnenna Ike, Tamara Pejovic, and Patricia Ruiz Martino" entitled "Natural language processing for aviation safety: extracting knowledge from publicly-available loss of separation reports"
+In this repository it is possible to find the raw output of the paper submitted to "Open Research Europe" (ORE) by "Irene Buselli, Luca Oneto, Carlo Dambra, Christian Verdonk Gallego, Miguel García Martínez, Anthony Smoker, Nnenna Ike, Tamara Pejovic, and Patricia Ruiz Martino" entitled "Natural language processing for aviation safety: extracting knowledge from publicly-available loss of separation reports"
 
 In particular the files are:
 - Topic_words_CEANITA: words and bigrams describing the 27 LDA topics identified in the CEANITA airprox reports, 12 of which have been considered significant and labelled by experts of the field (and are summarised in Table 3 of the paper). 
